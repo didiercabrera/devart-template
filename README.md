@@ -61,9 +61,10 @@ Edit  **project_technologies.json**  using the example JSON structure to define 
         ]
     },
     "themes": [
-        "Wishes",
-        "Particles",
-        "Dreams"
+        "Audio",
+        "Social Network",
+        "Hashtags",
+        "Visuals"
     ]
 }
 ```
