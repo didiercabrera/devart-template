@@ -3,9 +3,7 @@
         "apis": [
             "Google Image Search",
             "Twitter",
-            "g+",
-            "Instagram",
-            "Maps"
+            "g+"
         ],
         "platforms": [
             "Google Compute Engine",
