@@ -28,6 +28,6 @@ Imagine a room with a set of speakers, and a projection set,empty, then a tweet 
 
 Every sound will be controled or generated from tweets and posts,and with every retweet the sound grows and gets louder.Visuales could be generated from images the users are providing.
 
-![Sound Interaction Architecture](project_images/sound_architecture.png?raw=true "Sound Interaction Architecture")
+![Sound Interaction Architecture](../project_images/sound_architecture.png?raw=true "Sound Interaction Architecture")
 
 I'll upload a video soon.
