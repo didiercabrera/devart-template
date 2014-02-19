@@ -1,4 +1,4 @@
-##Hello Noise
+## Hello Noise
 
 We are now living in a world in which every day we are bombarded with pictures of our friend's food, duckfaces, selfies, lyrics of songs or a Marilyn Monroe picture with a random quote.
 We see all around people walking like zombies,looking nothing but their phones,we see it at concerts,movies,sports events,people are more conected but very distant, losing interaction with each other and with artists, if you go to a party, people are constantly taking pictures of themselves but forgetting to dance.
@@ -23,7 +23,7 @@ The idea is to transform social networks mentions and posts into a MIDI Controll
 
 Every sound will be controlled or generated from tweets and posts,and with every retweet the sound grows and gets louder.Visuals could be generated from images the users are providing.
 
-###Sound Interaction Architecture
+### Sound Interaction Architecture
 ![Sound Interaction Architecture](../project_images/sound_architecture.png?raw=true "Sound Interaction Architecture")
 
 ## Morphing

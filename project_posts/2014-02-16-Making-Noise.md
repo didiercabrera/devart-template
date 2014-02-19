@@ -1,6 +1,6 @@
 This is a project I've been developing for some time now,Constantly redoing everything cause I'm a little perfectionist,but until now I had no chance to really focus on what I wanted, Just making noise! Adding some features, getting rid of others, and now I'm back to basics where all started, a Crowdsorced Sound Experiment.
 
-##Sending Notes and Creating a Controller
+## Sending Notes and Creating a Controller
 
 I'm using *#morphon* tag in all my tweets to test the interface
 ![Tweet](../project_images/tweet.png?raw=true "Tweet")
