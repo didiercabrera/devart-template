@@ -6,13 +6,13 @@
             "g+"
         ],
         "platforms": [
-            "Google Compute Engine",
-            "Arduino",
-            "windows"
+            "Arduino"
         ],
         "toolkits": [
             "Node.js",
-            "Mongodb"
+            "Mongodb",
+            "d3",
+            "VSTs"
         ]
     },
     "themes": [

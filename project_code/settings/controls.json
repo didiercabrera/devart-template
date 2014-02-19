@@ -1,0 +1,32 @@
+{
+	"buttons":{
+		"play":120,
+		"stop":121,
+		"pause":122,
+		"record":123,
+		"flanger":124,
+		"phaser":125,
+		"reverb":126,
+		"delay":127
+	},
+	"sliders":{
+		"flanger":102,
+		"phaser":103,
+		"reverb":105,
+		"delay":104
+	},
+	"notes":{
+		"C":60,
+		"C#":61,
+		"D":62,
+		"D#":63,
+		"E":64,
+		"F":65,
+		"F#":66,
+		"G":67,
+		"G#":68,
+		"A":69,
+		"A#":70,
+		"B":71
+	}
+}
