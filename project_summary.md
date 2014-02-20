@@ -1,11 +1,11 @@
 # Morph-On : Remote Artist
 
 ## Author
-[Didier Cabrera]("https://twitter.com/didier_cabrera")
+Didier Cabrera
 
 ## Description
 
-Morph-On is a non-tangible *Crowd-sourced* interface to transform, control or generate audio and visuals from user interaction in social networks, or activity on the web.
+Morph-On is a *Crowd-sourced* interface to transform, control or generate audio and visuals from user interaction in social networks, or activity on the web.
 This way the user becomes co-author of the piece, Using posts, tweets and retweets redesigning the scene with different timelines and hashtags.
 
 Relationship between people and technolgy is bluring,who is controlling what?

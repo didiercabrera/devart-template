@@ -19,7 +19,7 @@ So,social networks like Twitter or g+ are ecosystems of living organisms called 
 
 A room with a set of speakers, and a projection set,empty, then a tweet comes in,Sound and Visuals react with the content of that tweet. Or some random guy tweets about Pink Floyd and instantly you hear and see the dark side of the moon.
 
-The idea is to transform social networks mentions and posts into a MIDI Controller and let people be part of you set.
+The idea is to transform social networks mentions and posts into a Global Controller and let people be part of you set.
 
 Every sound will be controlled or generated from tweets and posts,and with every retweet the sound grows and gets louder.Visuals could be generated from images the users are providing.
 
