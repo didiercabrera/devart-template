@@ -2,17 +2,14 @@
     "technologies": {
         "apis": [
             "Google Image Search",
-            "Twitter",
-            "g+"
+            "Twitter"
         ],
         "platforms": [
             "Arduino"
         ],
         "toolkits": [
             "Node.js",
-            "Mongodb",
-            "d3",
-            "VSTs"
+            "Mongodb"
         ]
     },
     "themes": [
