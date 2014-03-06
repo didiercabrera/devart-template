@@ -15,6 +15,6 @@ For example: *Awesome, this is my post* , this will be an array of words: [Aweso
 
 *a* has index of 0 in the alphabet which is a *C0* note in the Note Table below.
 
-The word **Awesome** is represented by the group of notes : ** C0,A1,D#0,F1,C#1,B0,D#0 **
+The word **Awesome** is represented by the group of notes : **C0,A1,D#0,F1,C#1,B0,D#0**
 
 ![Letter to Note](../project_images/midi_note_table.png?raw=true "Letter to Note")
