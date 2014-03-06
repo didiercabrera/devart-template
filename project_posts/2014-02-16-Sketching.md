@@ -1,6 +1,6 @@
 This is a simple sketch of how people can interact with the project.
 
-![Main Display](../project_images/sketch2.JPG,"Main Display")
+![Main Display](../project_images/sketch2.JPG?raw=true "Main Display")
 
 With a keyboard, users can play their own melody or record sounds then let others contribute.
 Everyone posting and playing will be featured in the Remote Artist display.
