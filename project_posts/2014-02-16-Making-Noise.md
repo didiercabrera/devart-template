@@ -9,6 +9,6 @@ Each tweet is decomposed and analized, if matching keywords (play,stop,record,pa
 
 The controllers generated are used in a djing software to emulate someone playing, but can be used in so many ways,by having a MIDI Controller I can use it with any software capable of handling MIDI.
 
-Volume is determined by the length of the tweet and Pitch by gender of the user.
+Velocity (Volume) is determined by the length of the post,or by the number of followers or tweets an user has.
 Next thing to do is tempo and Loops.
 Random Sound generation will be handled via PureData.

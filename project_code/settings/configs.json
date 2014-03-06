@@ -1,4 +1,6 @@
+//Default config values
 {
-	"tracker":"#morphonmusic",
-	"default_MIDIport":1
+	"tracker":["#morphon"],
+	"default_MIDIport":1,
+	"use_chords":true
 }
