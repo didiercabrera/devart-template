@@ -13,6 +13,10 @@ If a tweet comes in: **(the number of characters)** *X* **(0.914285714285714)** 
 
 How many tweets someone has can be used to see how much noise this person makes,and by noise I mean how much he likes to be heard.
 
+## By Character Codes 
+
+If notes are created, volume or velocity can be set by the a string charcater code.
+
 ## Modifiers
 
 This are the ones changing the way sound is being generated :

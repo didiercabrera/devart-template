@@ -10,7 +10,8 @@
         "toolkits": [
             "Node.js",
             "Mongodb",
-            "MIDI"
+            "MIDI",
+            "Django"
         ]
     },
     "themes": [
