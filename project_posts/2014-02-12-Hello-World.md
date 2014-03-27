@@ -24,6 +24,6 @@ The idea is to transform social networks mentions and posts into a Global Contro
 Every sound will be controlled or generated from tweets and posts,and with every retweet the sound grows and gets louder.Visuals generated from images the users are providing.
 
 ### Sound Interaction Architecture
-![Sound Interaction Architecture](../project_images/sound_architecture.png?raw=true "Sound Interaction Architecture")
+![Sound Interaction Architecture](../project_images/interaction.PNG?raw=true "Sound Interaction Architecture")
 
 I'll upload a video soon.

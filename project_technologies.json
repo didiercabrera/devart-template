@@ -1,17 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "Google App Engine",
+            "g+",
             "Twitter"
         ],
         "platforms": [
-            "Arduino"
+            "Windows"
         ],
         "toolkits": [
             "Node.js",
             "Mongodb",
             "MIDI",
-            "OSC"
+            "OSC",
+            "Ableton Live",
+            "Fl Studio"
         ]
     },
     "themes": [
