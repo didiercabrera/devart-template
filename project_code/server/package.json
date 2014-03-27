@@ -1,0 +1,15 @@
+{
+  "name": "Morphon server",
+  "version": "0.0.1",
+  "description": "Nodejs app for the Morphon project",
+  "main": "app.js",
+  "author": {
+  	"name":"Didier Cabrera",
+  	"email":"didiercabrera.music@gmail.com"
+  },
+  "dependencies": {
+    "omgosc": "1.0.0",
+    "socket.io": "0.9.14",
+    "twit": "1.1.12"
+  }
+}
