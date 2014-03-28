@@ -12,3 +12,6 @@ Relationship between people and technolgy is bluring,who is controlling what?
 Technology is meant to be an extension of our creative intelligence not a limitation.
 
 Using the decentralized universe of tagging, collective intelligence becomes the key conecept and provides unfocused way to deliver content, a person located in Paris can become a remote artist,sending a tweet and contributing with the piece located in London.
+
+Small demo
+http://youtu.be/Xk_mf1ZUVJA
