@@ -1,6 +1,6 @@
-//Default config values
 {
-	"tracker":["#morphon"],
+	"tracker":["#morphon","#art","#digitalArt"],
 	"default_MIDIport":1,
-	"use_chords":true
+	"use_chords":true,
+	"app_port":7000
 }

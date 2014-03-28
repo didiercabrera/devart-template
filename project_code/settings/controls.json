@@ -1,7 +1,4 @@
-//Default main Controllers and notes configuration
-//
 {
-	//Midi CC values
 	"buttons":{
 		"play":120,
 		"stop":121,
@@ -12,13 +9,13 @@
 		"phaser":126,
 		"delay":127
 	},
-	"sliders":{
+	"effects":{
 		"flanger":102,
 		"phaser":103,
 		"reverb":105,
 		"delay":104
 	},
-	"notes":{
+	"scale":{
 		"A":57,
 		"A#":58,
 		"B":59,
@@ -31,5 +28,9 @@
 		"F#":66,
 		"G":67,
 		"G#":68
-	}
+	},
+	"default":{
+		"effect":104
+	},
+	"keywords":["notes","chords","effects","sound"]
 }

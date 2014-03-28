@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>Morph-On Project</title>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+	<header>
+		<div id="nav">
+			<a class="navlink" id="change-hash">Edit</a>
+			<a href="#" class="navlink" id="now-tracking">Now Tracking : <span>Nothing</span></a>
+			<input id="google" placeholder="Enter a Word" class="navlink"><button id="gok">Ok</button>
+		</div>
+	</header>
+	
+	<div id="tracker-container">
+		<h3>Follow a Hashtag</h3>
+		<h4>Enter any #hashtag and start creating music with tweets (3 max and separated by comas)</h4>
+		<div id="tracker">
+			<input id="trackers" type="text" placeholder="#hashtag">
+			<button id="ok">Ok</button>
+		</div>
+	</div>
+	<div id="main-containers">
+		
+		<div class="container" id="tweet-container">
+			<h3>Remote Artists</h3>
+			<ul id="tweets">
+				<!-- <li class="tweet">
+					<img src="http://pbs.twimg.com/profile_images/435094003101347840/sUQyPHtf_normal.jpeg">
+					<h4 class="username">Didier Cabrera</h4>
+					<p>Testing this Tweets ,ai sdasdm amadsk asjisad jiandad</p>
+				</li> -->
+			</ul>
+		</div>
+
+		<div class="container" id="controllers">
+			<h4>Any tweet that has this words will be transformed into a Button, Slider or Note</h4>
+		</div>
+
+	</div>
+</body>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script type="text/javascript" src="./js/main.js"></script>
+<script>
+      function hndlr(response) {
+      for (var i = 0; i < response.items.length; i++) {
+        var item = response.items[i];
+        // in production code, item.htmlTitle should have the HTML entities escaped.
+		console.log(item);
+      }
+    }
+    </script>
+    <script src="https://www.googleapis.com/customsearch/v1?key=AIzaSyBTlX5WiCB8CWKbULcAshLT_CyyrsnTcFM
+&cx=017576662512468239146:omuauf_lfve&q=cars&callback=hndlr">
+    </script>
+</html>
